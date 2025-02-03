@@ -14,10 +14,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 Here are some of the technologies and tools I work with:
 
-- **Programming Languages:** [e.g., Python, JavaScript, Java, etc.]
-- **Frameworks & Libraries:** [e.g., React, Node.js, Django, etc.]
-- **Databases:** [e.g., MySQL, PostgreSQL, MongoDB, etc.]
-- **Tools & Platforms:** [e.g., Git, Docker, AWS, etc.]
+- **Programming Languages:** [Python,Java,Cpp]
+- **Frameworks & Libraries:** [e.g.Vue3, Django, etc.]
+- **Databases:** [e.g., MySQL, redis, etc.]
+- **Tools & Platforms:** [e.g., Git, Docker etc.]
 
 ## 📈 GitHub Stats
 
@@ -25,7 +25,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📫 Get in Touch
 
-Feel free to reach out to me via [your preferred contact method, e.g., email, LinkedIn, Twitter].
+Feel free to reach out to me via [wwssd507@gmail.com].
 
 Let's connect and collaborate on amazing projects!
 
