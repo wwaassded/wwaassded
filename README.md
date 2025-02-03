@@ -4,11 +4,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[your current project or job]**
-- 🌱 I’m currently learning **[what you're learning now]**
-- 👯 I’m looking to collaborate on **[projects you want to collaborate on]**
-- 💬 Ask me about **[areas of expertise or interest]**
-- 📫 How to reach me: **[your contact information, e.g., email, LinkedIn]**
+- 🔭 I’m currently working on **[django]**
+- 🌱 I’m currently learning **[django DRF Vue3]**
+- 📫 How to reach me: **[wwssd507@gmail.com]**
 
 ## 🛠️ Technologies & Tools
 
